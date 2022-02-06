@@ -1,8 +1,10 @@
-Requirements
+
 
 
 # Description:
 Bank Management system : The project helps the user to perform banking activities similar to  real bank. and it is an application for maintanining a persons account in a bank and this system provides the access for  the customer to create an account,deposit/withdraw the cash from his account, and also helps to view the details of transaction.This particular file contains all the details of requirement collection from user end
+
+# Requirements:
 
 # SWOT ANALYSIS
 Strength : User can have all the banking Activities.
