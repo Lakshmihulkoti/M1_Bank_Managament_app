@@ -13,6 +13,9 @@
 
 ## High Level Design
 ## Architecture diagram
+![str architeure dai](https://user-images.githubusercontent.com/98826329/152681900-1f454674-d11a-4781-bb44-041199661965.png)
+
+
 
 ## Low level Design
 ## figure 2.2 Data flow Design
