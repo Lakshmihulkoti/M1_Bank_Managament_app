@@ -8,6 +8,8 @@ Add all the certificates that you obtain
 
  * Screenshot of Github Learning
  * Screenshot HackerEarh Points
+ * ![Screenshot (73)](https://user-images.githubusercontent.com/98826329/152686376-d7bf06c5-a0a1-49c2-b26c-3dcc1090f255.png)
+
 
 
 
