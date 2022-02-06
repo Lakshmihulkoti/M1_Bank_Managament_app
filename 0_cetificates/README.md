@@ -7,6 +7,8 @@ Add all the certificates that you obtain
  * [Cisco certificate.pdf](https://github.com/Lakshmihulkoti/M1_ProjectGoal_app/files/8010124/Cisco.certificate.pdf)
 
  * Screenshot of Github Learning
+ * ![Screenshot (74)](https://user-images.githubusercontent.com/98826329/152686736-1855236f-0127-4c7b-ad9c-c2c0e667ea4d.png)
+
  * Screenshot HackerEarh Points
  * ![Screenshot (73)](https://user-images.githubusercontent.com/98826329/152686376-d7bf06c5-a0a1-49c2-b26c-3dcc1090f255.png)
 
