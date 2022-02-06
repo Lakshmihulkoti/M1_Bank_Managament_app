@@ -27,7 +27,7 @@ Everyone can use the bank management system who want to have benifit of banking.
 Bank management sysem is mainly concerned to Cover the major Banking activities in sigle application.
 
 # When:
-user can use this application by the time he decides to deposit/withdraw/view the transaction details.
+User can use this application by the time he decides to deposit/withdraw/view the transaction details.
 
 # Where:
 User can can access this application using any C compiler.
