@@ -1,8 +1,9 @@
 Add all the certificates that you obtain
- *sololearn
+
+ * sololearn
  * Cisco NDG Linux   
-   * Screenshot of Github Learning
-   * Screenshot HackerEarh Points
+ * Screenshot of Github Learning
+ * Screenshot HackerEarh Points
 
 
 
