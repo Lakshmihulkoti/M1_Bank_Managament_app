@@ -1,4 +1,4 @@
-Requirements
+# Requirements
 
 
 # Description:
@@ -9,7 +9,7 @@ Strength : User can have all the banking Activities.
 
 * Depositing Amount
 * Withdrawing Amount
-* Viewing Details
+* Viewing the transaction Details
 * Foreign Exchange
 
 Weakness : If the password is wrong No activities can be done.
@@ -40,7 +40,7 @@ High Level Requirements:
 * System Shall be able to open new Account
 * User shall Deposit Money
 * User shall Withdraw Money
-* User shall View Details
+* User shall View the transaction Details
 
 Low Level Requirements :
 * User can have transaction only if user has Account
