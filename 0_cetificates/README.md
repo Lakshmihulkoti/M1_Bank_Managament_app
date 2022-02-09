@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-Adding  all the certificates that we obtain
-   * sololearn
-   * Cisco NDG Linux
-   * Screenshot of Github Learning
-   * Screenshot HackerEarh Points
-   
-=======
-Add all the certificates that you obtain
 
+Adding  all the certificates that we obtain
+ 
  * sololearn
  * [sololearn certificate.pdf](https://github.com/Lakshmihulkoti/M1_ProjectGoal_app/files/8010122/sololearn.certificate.pdf)
 
@@ -18,4 +11,4 @@ Add all the certificates that you obtain
  
  * Screenshot HackerEarh Points
  ![screenshot of hackeraerth](https://user-images.githubusercontent.com/98826329/153189389-ba40fb70-04fa-46e0-b99e-6690f395e3bc.png)
->>>>>>> a0e9b42ef82405cb8a39d53001661c0773c4e937
+
