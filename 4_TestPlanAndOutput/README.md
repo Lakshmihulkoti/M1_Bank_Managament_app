@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # TEST PLAN:
 ## Table no: High level test plan
 |Test ID | Description |  Exp I/P   |   Exp O/P   |   Actual Out   |   Type Of Test   |
@@ -10,7 +8,7 @@
 |HLR3	|withdraw Amount|	3000 |	Sorry, You dont have enough money in your account	|Sorry, You dont have enough money in your account	| Requirement based|
 |HHR4|	Entering Password|	qqqrdfcf|	Wrong Password|	Wrong Password	|Boundary based|
 |HHR4 |Entering Password	|Lakshmigh|	password match|	password match	|Boundary based|
->>>>>>> a0e9b42ef82405cb8a39d53001661c0773c4e937
+
 
 
 # Table no: Low level test plan
