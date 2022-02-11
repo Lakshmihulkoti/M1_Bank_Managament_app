@@ -6,7 +6,7 @@
 |HLR1 | Checking customer record| Name:abc Account Number:123456789  |Congratulations !Your account has been created|Congratulations... Your account has been created.|Requirement| 
 |HLR2 |Deposit Amount|	1000  | 	Your current available bank balance is 2000|	Your current available bank balance is 2000   |  Requirement based |                   
 |HLR3	|withdraw Amount|	3000 |	Sorry, You dont have enough money in your account	|Sorry, You dont have enough money in your account	| Requirement based|
-|HHR4|	Entering wrong account no|	qqqrdfcf|	invaild |	invaild	|Boundary based|
+|HHR4|	Entering wrong account no|	qqqrdfcf|	wrong account no |	invaild	|Boundary based|
 |HHR4 |Entering wrong name	|Lakshmi|	wrong name |invaild		|Boundary based|
 
 
