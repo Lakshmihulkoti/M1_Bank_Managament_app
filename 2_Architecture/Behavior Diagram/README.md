@@ -2,7 +2,7 @@
 
 ## figure 1.1 Use Case Diagram
 
-![use case daigram](https://user-images.githubusercontent.com/98826329/153615998-79a3e22f-79eb-4e32-9f32-836e3a3f9d52.png)
+![usecase2](https://user-images.githubusercontent.com/98826329/153616762-4e042ea7-7aa5-427f-8546-23aff43f29b5.png)
 
 # Low Level Design
 
