@@ -2,8 +2,7 @@
 
 ## figure 2.1 Architecture Diagram
 
-![str architeure dai](https://user-images.githubusercontent.com/98826329/153242168-55792cb6-0253-4ee5-bfc3-a20e988405a0.png)
-
+![architeture Daigram](https://user-images.githubusercontent.com/98826329/153602067-234b894d-7efe-4f2f-8c6d-1fe0aeb50b98.png)
 
 
 
