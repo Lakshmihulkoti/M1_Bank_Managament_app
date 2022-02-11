@@ -10,7 +10,5 @@
 
 ## figure 2.2 Data Flow Diagram
 
-![str data flow daigram](https://user-images.githubusercontent.com/98826329/153242423-d9626e56-e57e-4852-80f7-0e70bd4fa907.png)
-
-
+![dataflow diagram](https://user-images.githubusercontent.com/98826329/153602368-829bf866-742e-468c-b608-c22a80611c5a.png)
 
