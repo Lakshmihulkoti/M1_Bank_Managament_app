@@ -12,4 +12,6 @@
 | 7_Others     |  Documentations of references and data sheets |
 
 ## References 
+https://github.com/ankitakondagoli/stepin_Bank-Management.git
 
+https://www.cselectricalandelectronics.com/c-programming-projects-with-source-code-coding-projects-ideas/
