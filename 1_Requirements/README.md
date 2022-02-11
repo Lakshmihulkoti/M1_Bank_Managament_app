@@ -8,9 +8,10 @@ Bank Management system  : The project helps the user to perform banking activiti
 Strength : with help of customers name  and account number , User can check all the banking Activities.
 
 * checking customers records 
-* Depositing Amount :This feature is used to add money to an existing customers account and the added money will be updated in the data base.
+* Depositing Amount :This feature is used to add money to an existing customers account 
+  and the added money will be updated in the data base.
 * Withdrawing Amount : This features is used to withdraw money from an account.
-* viweing tansaction details :An option for checking available balance and also helps to view the details of transaction.
+* viewing tansaction details :An option for checking available balance and also helps to view the details of transaction.
 
 Weakness : If the account number is wrong No activities can be done.
 
