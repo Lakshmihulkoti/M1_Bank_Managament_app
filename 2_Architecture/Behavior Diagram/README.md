@@ -12,6 +12,5 @@
 
 ## Figure 1.2 Activity Diagram
 
-![activity daigram](https://user-images.githubusercontent.com/98826329/153241669-6c6dd54d-396b-41d8-ac1c-0e5bd66bf128.png)
-
+![Activity diagram](https://user-images.githubusercontent.com/98826329/153613389-9dadc25b-f038-4688-833c-f068fcab5847.png)
 
