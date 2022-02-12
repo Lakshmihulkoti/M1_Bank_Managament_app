@@ -7,7 +7,7 @@
 Bank Management system  : The project helps the user to perform banking activities similar to  real bank. and it is an application for maintanining a persons account in a bank and this system provides the access for  the customer to create an account,deposit/withdraw the cash from his account, and also helps to view the details of transaction.and the data to be stored is Account number,Name,Balance in account and we can Assume maximun of 20 customers in the bank .This particular file contains all the details of requirement collection from user end.
 
 # SWOT ANALYSIS
-Strength : with help of customers name  and account number , User can check all the banking Activities.
+## Strength : with help of customers name  and account number , User can check all the banking Activities.
 
 * checking customers records 
 * Depositing Amount :This feature is used to add money to an existing customers account 
@@ -15,11 +15,11 @@ Strength : with help of customers name  and account number , User can check all 
 * Withdrawing Amount : This features is used to withdraw money from an account.
 * viewing tansaction details :An option for checking available balance and also helps to view the details of transaction.
 
-Weakness : If the account number is wrong No activities can be done.
+## Weakness : If the account number is wrong No activities can be done.
 
-Opportunity : user can Deposit, withdraw amount and can view details.
+## Opportunity : user can Deposit, withdraw amount and can view details.
 
-Threats  : If the account number is wrong No activities can be done.
+## Threats  : If the account number is wrong No activities can be done.
 
 # 4W's and 1'H
 
@@ -51,6 +51,11 @@ Low Level Requirements :
 
 
 # Architecture :
+
+
+
+
+
 # Implementation :
 #include <stdio.h>
 
