@@ -51,6 +51,8 @@ Low Level Requirements :
 
 
 # Architecture :
+##Behavior Diagram:
+
 # High level Design
 
 ## figure 1.1 Use Case Diagram
