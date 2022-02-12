@@ -69,7 +69,7 @@ Low Level Requirements :
 
 ## High Level Design
 
-##  Architecture Diagram:
+## Figure 2.1 Architecture Diagram:
 
 ![architeture Daigram](https://user-images.githubusercontent.com/98826329/153602067-234b894d-7efe-4f2f-8c6d-1fe0aeb50b98.png)
 
@@ -77,7 +77,7 @@ Low Level Requirements :
 
 ## Low Level Design
 
-## Data Flow Diagram:
+## Figure 2.2 Data Flow Diagram:
 
 ![dataflow diagram](https://user-images.githubusercontent.com/98826329/153602368-829bf866-742e-468c-b608-c22a80611c5a.png)
 
@@ -91,10 +91,10 @@ Low Level Requirements :
 
 |Test ID | Description |  Exp I/P   |   Exp O/P   |   Actual Out   |   Type Of Test   |
 |:-------|:------------|:-----------|:------------|:---------------|:-----------------|
-|HLR1 | Checking customer record| Name:abc Account Number:123456789  |                         |                                |Requirement| 
+|HLR1 | Checking customer record| Name:abc Account Number:123456789  |   display the customer records     |      display the customer records    | Requirement based| 
 |HLR2 |Deposit Amount|	1000  | 	Your current available bank balance is 1000|	Your current available bank balance is 1000   |  Requirement based |                   
-|HLR3	|withdraw Amount|	3000 |	Sorry, You dont have enough money in your account	|Sorry, You dont have enough money in your account	| Requirement based|
-|HHR4|	Entering wrong account no|	qqqrdfcf|	wrong account no |	invaild	|Boundary based|
+|HLR3	|withdraw Amount|	3000 |	Sorry, Insufficient balance|Sorry, Insufficient balance	| Requirement based|
+|HHR4|	Entering wrong account no|	qqqrdfcf|	Record not found |	Record not found	|Boundary based|
 |HHR4 |Entering wrong name	|Lakshmi|	wrong name |invaild		|Boundary based|
 
 
@@ -103,7 +103,7 @@ Low Level Requirements :
 
 |Test ID|	Description|	Exp IN	| Exp OUT |	Actual Out	| Type Of Test |
 |:-----|:------------|:---------|:--------|:------------|:-------------|
-|LLR1	|If user enters wrong Account Number|	000000000	|Wrong account number |	Wrong account number | Requirement  |
+|LLR1	|If user enters wrong Account Number|	000000000	|Record not foundr |	Record not found | Requirement based |
 |LLR2	|If wrong choice choosen|	7	| Invalid choice	| Exit|	Scenario based|
 
 
@@ -111,6 +111,26 @@ Low Level Requirements :
 
 
 # Tested Output :
+
+
+## First output after running makefile
+
+![IMG-20220212-WA0134](https://user-images.githubusercontent.com/98826329/153706710-0d68dd7e-e6a3-47a3-9940-dbb0d4fcf259.jpg)
+
+## Storing the customers data and by entering 1 ,it displaying the customers records
+
+![IMG-20220212-WA0144](https://user-images.githubusercontent.com/98826329/153709831-b51b6d04-8dfc-4d8e-8b28-e10a136c2ba3.jpg)
+
+
+## Deposit Amount :
+![IMG-20220212-WA0143](https://user-images.githubusercontent.com/98826329/153709882-4edba1ef-d740-463b-ac01-983cb593d3f0.jpg)
+
+## Withdrawing Amount:
+![IMG-20220212-WA0145](https://user-images.githubusercontent.com/98826329/153709939-082d6be4-2c9c-41ae-a3bd-98f5030909ef.jpg)
+
+# Viewing (Searching )the data :
+![IMG-20220212-WA0146](https://user-images.githubusercontent.com/98826329/153709987-929522ad-0cec-476c-9745-fcb7c319e031.jpg)
+
 
 
 
