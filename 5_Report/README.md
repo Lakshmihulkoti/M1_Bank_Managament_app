@@ -54,6 +54,7 @@ Low Level Requirements :
 
 ## Usecase Diagram :
 ![use case daigram](https://user-images.githubusercontent.com/98826329/153703938-f659f148-2187-4f4b-a429-6b9c27ef4a83.png)
+![usecase2](https://user-images.githubusercontent.com/98826329/153704355-1a21071f-e055-4127-8cb1-ccad9aa03d79.png)
 
 ## Activity diagram :
 ![Activity diagram](https://user-images.githubusercontent.com/98826329/153704032-35ebf66b-6617-4c94-a7be-ff673f5834c6.png)
