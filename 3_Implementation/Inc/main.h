@@ -1,6 +1,6 @@
 /**
  * @file main.h
- * @author your name (you@domain.com)
+ * @author lakshmi hulkoti
  * @brief 
  * @version 0.1
  * @date 2022-02-12
