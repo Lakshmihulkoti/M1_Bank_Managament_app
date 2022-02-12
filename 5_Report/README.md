@@ -5,7 +5,9 @@
 Bank Management system  : The project helps the user to perform banking activities similar to  real bank. and it is an application for maintanining a persons account in a bank and this system provides the access for  the customer to create an account,deposit/withdraw the cash from his account, and also helps to view the details of transaction.and the data to be stored is Account number,Name,Balance in account and we can Assume maximun of 20 customers in the bank .This particular file contains all the details of requirement collection from user end.
 
 # SWOT ANALYSIS
-Strength : with help of customers name  and account number , User can check all the banking Activities.
+Strength : 
+* with help of customers name  and account number , User can check all the banking Activities.
+* user can perform safe transaction.
 
 * checking customers records 
 * Depositing Amount :This feature is used to add money to an existing customers account 
@@ -89,7 +91,7 @@ Low Level Requirements :
 
 ## Table no: High level test plan
 
-|Test ID | Description |  Exp I/P   |   Exp O/P   |   Actual Out   |   Type Of Test   |
+|Test ID | Description |  INPUT	   |   Exp O/P   |   Actual Out   |   Type Of Test   |
 |:-------|:------------|:-----------|:------------|:---------------|:-----------------|
 |HLR1 | Checking customer record| Name:abc   Account Number:123 |   display the customer records     |      display the customer records    | Requirement based| 
 |HLR2 |Deposit Amount|	1000  | 	Your current available bank balance is 1000|	Your current available bank balance is 1000   |  Requirement based |                   
@@ -101,7 +103,7 @@ Low Level Requirements :
 
 # Table no: Low level test plan
 
-|Test ID|	Description|	Exp IN	| Exp OUT |	Actual Out	| Type Of Test |
+|Test ID|	Description|	INPUT	| Exp OUT |	Actual Out	| Type Of Test |
 |:-----|:------------|:---------|:--------|:------------|:-------------|
 |LLR1	|If user enters wrong Account Number|	000000000	|Record not found |	Record not found | Requirement based |
 |LLR2	|If wrong choice choosen|	7	| Invalid choice	| Exit|	Scenario based|
