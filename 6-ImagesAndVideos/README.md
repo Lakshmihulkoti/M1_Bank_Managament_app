@@ -21,3 +21,7 @@
 # with drawing the amount more than balance
 ![insuffient ](https://user-images.githubusercontent.com/98826329/153712508-0010a17e-bc5e-4d6a-b9f0-4d777e5fe584.png)
 
+# Entering the unsaved record
+![record not found](https://user-images.githubusercontent.com/98826329/153712554-fb9d1417-9c3b-4399-b267-fa780a2c3f60.png)
+
+
