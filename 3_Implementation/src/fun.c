@@ -1,4 +1,4 @@
-#include main.h 
+include main.h
 
 void accept(struct customer list[80], int s)
 {
@@ -44,7 +44,7 @@ int search(struct customer list[80], int s, int number)
 
 void deposit(struct customer list[], int s, int number, int amt)
 {
-    int i = search(list, s, number);
+    int i = search( list, s, number);
     if (i ==  - 1)
     {
         printf("Record not found");
