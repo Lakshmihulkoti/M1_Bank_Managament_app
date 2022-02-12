@@ -1,9 +1,7 @@
-# Report :
-
-# Requirements
 
 
-# Description:
+# Requirements:
+
 Bank Management system  : The project helps the user to perform banking activities similar to  real bank. and it is an application for maintanining a persons account in a bank and this system provides the access for  the customer to create an account,deposit/withdraw the cash from his account, and also helps to view the details of transaction.and the data to be stored is Account number,Name,Balance in account and we can Assume maximun of 20 customers in the bank .This particular file contains all the details of requirement collection from user end.
 
 # SWOT ANALYSIS
@@ -107,6 +105,9 @@ Low Level Requirements :
 |:-----|:------------|:---------|:--------|:------------|:-------------|
 |LLR1	|If user enters wrong Account Number|	000000000	|Wrong account number |	Wrong account number | Requirement  |
 |LLR2	|If wrong choice choosen|	7	| Invalid choice	| Exit|	Scenario based|
+
+
+
 
 
 # Tested Output :
