@@ -5,3 +5,9 @@
 ## Storing the customers data and by entering 1 ,it displaying the records
 
 ![IMG-20220212-WA0144](https://user-images.githubusercontent.com/98826329/153709831-b51b6d04-8dfc-4d8e-8b28-e10a136c2ba3.jpg)
+
+
+#Deposit
+![IMG-20220212-WA0143](https://user-images.githubusercontent.com/98826329/153709882-4edba1ef-d740-463b-ac01-983cb593d3f0.jpg)
+
+# Withdraw
