@@ -6,7 +6,7 @@
 
 |Test ID | Description |  Input   |   Exp O/P   |   Actual Out   |   Type Of Test   |
 |:-------|:------------|:-----------|:------------|:---------------|:-----------------|
-|HLR1 | Checking customer record| Name:abc   Account Number:123 |   display the customer records     |      display the customer records    | Requirement based| 
+|HLR1 | Checking customer record| Name:abc   Account Number:123 |   displays the customer records     |      displays the customer records    | Requirement based| 
 |HLR2 |Deposit Amount|	1000  | 	Your current available bank balance is 1000|	Your current available bank balance is 1000   |  Requirement based |                   
 |HLR3	|withdraw Amount|	3000 |	Sorry, Insufficient balance|Sorry, Insufficient balance	| Requirement based|
 |HHR4|	Entering wrong account no|	qqqrdfcf|	Record not found |	Record not found	|Boundary based|
