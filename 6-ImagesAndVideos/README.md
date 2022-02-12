@@ -4,4 +4,4 @@
 
 ## Storing the customers data and by entering 1 ,it displaying the records
 
-![IMG-20220212-WA0138](https://user-images.githubusercontent.com/98826329/153709696-5646f69c-c287-4aa7-be1f-e8f0846eca21.jpg)
+![IMG-20220212-WA0144](https://user-images.githubusercontent.com/98826329/153709831-b51b6d04-8dfc-4d8e-8b28-e10a136c2ba3.jpg)
