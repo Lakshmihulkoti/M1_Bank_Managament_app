@@ -4,7 +4,7 @@
 
 ## Table no: High level test plan
 
-|Test ID | Description |  Exp I/P   |   Exp O/P   |   Actual Out   |   Type Of Test   |
+|Test ID | Description |  Input   |   Exp O/P   |   Actual Out   |   Type Of Test   |
 |:-------|:------------|:-----------|:------------|:---------------|:-----------------|
 |HLR1 | Checking customer record| Name:abc   Account Number:123 |   display the customer records     |      display the customer records    | Requirement based| 
 |HLR2 |Deposit Amount|	1000  | 	Your current available bank balance is 1000|	Your current available bank balance is 1000   |  Requirement based |                   
@@ -16,7 +16,7 @@
 
 ## Table no: Low level test plan
 
-|Test ID|	Description|	Exp IN	| Exp OUT |	Actual Out	| Type Of Test |
+|Test ID|	Description|	 Input | Exp O/P |	Actual Out	| Type Of Test |
 |:-----|:------------|:---------|:--------|:------------|:-------------|
 |LLR1	|If user enters wrong Account Number|	000000000	|Record not found |	Record not found | Requirement based |
 |LLR2	|If wrong choice choosen|	7	| Invalid choice	| Exit|	Scenario based|
