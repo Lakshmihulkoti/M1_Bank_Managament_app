@@ -7,7 +7,7 @@
 
 # Code Quality - Codiga
 
-(https://api.codiga.io/project/31223/status/svg)
+![Codiga Badge](https://api.codiga.io/project/31223/status/svg)
 
 
 
