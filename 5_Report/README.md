@@ -113,6 +113,18 @@ Low Level Requirements :
 # Tested Output :
 
 
+
+
+
+
+
+## References 
+https://github.com/ankitakondagoli/stepin_Bank-Management.git
+https://youtu.be/Oh3-4_evGNE
+https://www.cselectricalandelectronics.com/c-programming-projects-with-source-code-coding-projects-ideas/
+
+
+
                                     
                                                                 
 
