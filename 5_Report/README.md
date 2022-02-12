@@ -133,6 +133,14 @@ Low Level Requirements :
 # Viewing (Searching )the data :
 ![IMG-20220212-WA0146](https://user-images.githubusercontent.com/98826329/153709987-929522ad-0cec-476c-9745-fcb7c319e031.jpg)
 
+# withdrawing the amount more than balance:
+![insuffient ](https://user-images.githubusercontent.com/98826329/153712508-0010a17e-bc5e-4d6a-b9f0-4d777e5fe584.png)
+
+# Entering the unsaved record :
+![record not found](https://user-images.githubusercontent.com/98826329/153712554-fb9d1417-9c3b-4399-b267-fa780a2c3f60.png)
+
+
+
 
 
 
