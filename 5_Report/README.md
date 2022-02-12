@@ -51,7 +51,8 @@ Low Level Requirements :
 
 
 # Architecture :
-##Behavior Diagram:
+
+#Behavior Diagram:
 
 # High level Design
 
@@ -66,13 +67,23 @@ Low Level Requirements :
 ![Activity diagram](https://user-images.githubusercontent.com/98826329/153613389-9dadc25b-f038-4688-833c-f068fcab5847.png)
 
 
+# Structural Diagram:
 
-## Usecase Diagram :
-![use case daigram](https://user-images.githubusercontent.com/98826329/153703938-f659f148-2187-4f4b-a429-6b9c27ef4a83.png)
-![usecase2](https://user-images.githubusercontent.com/98826329/153704355-1a21071f-e055-4127-8cb1-ccad9aa03d79.png)
+## High Level Design
 
-## Activity diagram :
-![Activity diagram](https://user-images.githubusercontent.com/98826329/153704032-35ebf66b-6617-4c94-a7be-ff673f5834c6.png)
+##  Architecture Diagram:
+
+![architeture Daigram](https://user-images.githubusercontent.com/98826329/153602067-234b894d-7efe-4f2f-8c6d-1fe0aeb50b98.png)
+
+
+
+## Low Level Design
+
+## Data Flow Diagram:
+
+![dataflow diagram](https://user-images.githubusercontent.com/98826329/153602368-829bf866-742e-468c-b608-c22a80611c5a.png)
+
+
 
 
 
