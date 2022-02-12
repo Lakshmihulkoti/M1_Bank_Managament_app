@@ -9,6 +9,8 @@
 # Code Quality - Code Inspector
 https://api.codiga.io/project/31223/score/svg
 
+https://api.codiga.io/project/31223/status/svg
+
 
 
 
