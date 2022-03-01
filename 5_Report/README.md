@@ -1,8 +1,9 @@
-
+# REPORT :
+this is C programming Bank management application Project.The project helps the user to perform banking activities similar to  real bank.this system provides the access for  the customer to create an account,deposit/withdraw the cash from his account
 
 # Requirements:
 
-Bank Management system  : The project helps the user to perform banking activities similar to  real bank. and it is an application for maintanining a persons account in a bank and this system provides the access for  the customer to create an account,deposit/withdraw the cash from his account, and also helps to view the details of transaction.and the data to be stored is Account number,Name,Balance in account and we can Assume maximun of 20 customers in the bank .This particular file contains all the details of requirement collection from user end.
+Bank Management system  :  and it is an application for maintanining a persons account in a bank and this system provides the access for  the customer to create an account,deposit/withdraw the cash from his account, and also helps to view the details of transaction.and the data to be stored is Account number,Name,Balance in account and we can Assume maximun of 20 customers in the bank .This particular file contains all the details of requirement collection from user end.
 
 # SWOT ANALYSIS
 Strength : 
