@@ -21,6 +21,8 @@ Weakness : If the account number is wrong No activities can be done.
 Opportunity : user can Deposit, withdraw amount and can view details.
 
 Threats  : If the account number is wrong No activities can be done.
+
+
 Cpp check -[![cppcheck-action](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml)
        
 Git inspector -[![Contribution Check - Git Inspector](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml)
