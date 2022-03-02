@@ -9,7 +9,7 @@ Codacy -[![Codacy Badge](https://app.codacy.com/project/badge/Grade/42299d7de8e7
 
 Cpp check -[![cppcheck-action](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml)
        
-
+Git inspector -[![Contribution Check - Git Inspector](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml)
 
 
 
@@ -40,6 +40,5 @@ Cpp check -[![cppcheck-action](https://github.com/Lakshmihulkoti/M1_Bank_Managam
  
 
 ## References 
-https://github.com/ankitakondagoli/stepin_Bank-Management.git
 https://youtu.be/Oh3-4_evGNE
 https://www.cselectricalandelectronics.com/c-programming-projects-with-source-code-coding-projects-ideas/
