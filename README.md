@@ -1,13 +1,13 @@
 # M1_Bank_Managament_app
 
- Mini project using c language
+ The Bank Management  project helps the user to perform all the banking activities by using c language
 
 # Code Analysis :
 
 |       Codiga     |          Codacy             |       Cpp check       |       Git inspector    |
 |-------------------------------|:------------------------------------------|:------------------------------------------------|:-------------------------------|
 | ![Codiga Badge](https://api.codiga.io/project/31223/status/svg)  |  ![Codacy Badge](https://app.codacy.com/project/badge/Grade/42299d7de8e7434cbdda425bd4f935be)| [![cppcheck-action](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml) | [![Contribution Check - Git Inspector](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml)
- |
+
 
 
 
