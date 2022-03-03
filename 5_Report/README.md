@@ -8,6 +8,7 @@ Bank Management system  :  and it is an application for maintanining a persons a
 # Detail requirements
 ## High Level Requirements:
  |ID| Description|	Status (Implemented/Future) |
+ |---------------|:----------------------------|
  |HLR1| System Shall be able to see customer records  |	Implemented |
 |HLR2|	User shall Deposit Money	 | Implemented |
 |HLR3|	User shall Withdraw Money	| Implemented |
@@ -15,6 +16,7 @@ Bank Management system  :  and it is an application for maintanining a persons a
 
 ## Low Level Requirements :
 |-- ID | Description	| Status (Implemented/Future) |
+|---------------|:----------------------------|
 | LLR1 |	User can have transaction only if user has Account |
 | LLR2| System Shall be able to check customer records |
 
