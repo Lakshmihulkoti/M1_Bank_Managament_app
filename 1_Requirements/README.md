@@ -22,7 +22,8 @@ Bank Management system  : The project helps the user to perform banking activiti
 
 
 
-# SWOT ANALYSIS
+
+## SWOT ANALYSIS
 Strength :
 * with help of customers name  and account number , User can check all the banking Activities.
 * User can perform safe transaction
