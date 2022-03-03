@@ -3,7 +3,13 @@
  Mini project using c language
 
 # Code Analysis :
-|   Codiga    | |     Codacy  |
+
+|       Codiga     |          Codacy             |       
+|-------------------------------|:------------------------------------------|
+| ![Codiga Badge](https://api.codiga.io/project/31223/status/svg)  |  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/42299d7de8e7434cbdda425bd4f935be)](https://www.codacy.com/gh/Lakshmihulkoti/M1_Bank_Managament_app/dashboard? | 
+| 1_Requirements | Description of project ,High level and low level requirements,SWOT Analysis and 4W's & 1H.  |
+| 2_Architecture | Documents of Behavioral and Structural Diagrams with Respect HLR and LLR||
+|   Codiga    | |       |
 |  ![Codiga Badge](https://api.codiga.io/project/31223/status/svg)  | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/42299d7de8e7434cbdda425bd4f935be)](https://www.codacy.com/gh/Lakshmihulkoti/M1_Bank_Managament_app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lakshmihulkoti/M1_Bank_Managament_app&amp;utm_campaign=Badge_Grade) |
 
  
