@@ -56,13 +56,3 @@ User can can access this application using any C compiler.
 # How:
 Implementation is done using C language. And also used multifile concept.
 
-# Detail requirements
-High Level Requirements:
-* System Shall be able to see customer records
-* User shall Deposit Money
-* User shall Withdraw Money
-* User shall View the transaction Details
-
-Low Level Requirements :
-* User can have transaction only if user has Account
-* System Shall be able to check customer records
