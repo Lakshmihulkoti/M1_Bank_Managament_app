@@ -34,5 +34,5 @@
  
 
 ## References 
-https://youtu.be/Oh3-4_evGNE
-https://www.cselectricalandelectronics.com/c-programming-projects-with-source-code-coding-projects-ideas/
+
+[Reference_1](https://www.cselectricalandelectronics.com/c-programming-projects-with-source-code-coding-projects-ideas/)
