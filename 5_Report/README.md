@@ -4,7 +4,19 @@ this is C programming Bank management application Project.The project helps the 
 # Description :
 
 Bank Management system  :  and it is an application for maintanining a persons account in a bank and this system provides the access for  the customer to create an account,deposit/withdraw the cash from his account, and also helps to view the details of transaction.and the data to be stored is Account number,Name,Balance in account and we can Assume maximun of 20 customers in the bank .This particular file contains all the details of requirement collection from user end.
-# Requirements
+
+# Detail requirements
+## High Level Requirements:
+ |ID| Description|	Status (Implemented/Future) |
+ |HLR1| System Shall be able to see customer records  |	Implemented |
+|HLR2|	User shall Deposit Money	 | Implemented |
+|HLR3|	User shall Withdraw Money	| Implemented |
+|HLR4| User shall View the transaction Details |	Implemented |
+
+## Low Level Requirements :
+|-- ID | Description	| Status (Implemented/Future) |
+| LLR1 |	User can have transaction only if user has Account |
+| LLR2| System Shall be able to check customer records |
 
 
 
@@ -26,9 +38,6 @@ Opportunity : user can Deposit, withdraw amount and can view details.
 Threats  : If the account number is wrong No activities can be done.
 
 
-
-
-
 # 4W's and 1'H
 
 # Who:
@@ -45,18 +54,6 @@ User can can access this application using any C compiler.
 
 # How:
 Implementation is done using C language. And also used multifile concept.
-
-# Detail requirements
-High Level Requirements:
- |ID| Description|	Status (Implemented/Future) |
- |HLR1| System Shall be able to see customer records  |	Implemented |
-|HLR2|	User shall Deposit Money	 | Implemented |
-|HLR3|	User shall Withdraw Money	| Implemented |
-|HLR4| User shall View the transaction Details |	Implemented |
-
-Low Level Requirements :
-* User can have transaction only if user has Account
-* System Shall be able to check customer records
 
 
 
