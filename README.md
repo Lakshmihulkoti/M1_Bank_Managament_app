@@ -2,6 +2,9 @@
 
  The Bank Management  project helps the user to perform all the banking activities by using c language
 
+
+
+
 # Code Analysis :
 
 |       Codiga     |          Codacy             |       Cpp check       |       Git inspector    |
@@ -12,7 +15,7 @@
 
 
 
-# Folder Description
+
 
 # Folder structure :
 |     Folder Name               |              Description                  |
