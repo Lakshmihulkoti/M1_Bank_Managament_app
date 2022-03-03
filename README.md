@@ -33,7 +33,8 @@
 1.Applying unit concept was quite challenging.
  
 
-## References 
+## Resources: 
 
 [Reference_1](https://www.cselectricalandelectronics.com/c-programming-projects-with-source-code-coding-projects-ideas/)
+
 [Reference_2](https://www.codewithc.com/mini-project-in-c-bank-management-system/)
