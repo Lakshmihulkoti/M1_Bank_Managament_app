@@ -14,9 +14,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: apt install dependency
+     - name: apt install dependency
       run: 
          sudo apt-get -y install valgrind
-         sudo apt-get -y install libcunitl-do libcunitl-dev
+         
     - name: Dynamic Analysis
        run: make dynamic_analysis -c 3_Implementation
  
