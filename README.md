@@ -2,10 +2,11 @@
 
  Mini project using c language
 
-# Code Quality 
-Codiga -![Codiga Badge](https://api.codiga.io/project/31223/status/svg)
+# Code Analysis :
+| Codiga| Codacy |
+|![Codiga Badge](https://api.codiga.io/project/31223/status/svg)| -[![Codacy Badge](https://app.codacy.com/project/badge/Grade/42299d7de8e7434cbdda425bd4f935be)](https://www.codacy.com/gh/Lakshmihulkoti/M1_Bank_Managament_app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lakshmihulkoti/M1_Bank_Managament_app&amp;utm_campaign=Badge_Grade) |
 
-Codacy -[![Codacy Badge](https://app.codacy.com/project/badge/Grade/42299d7de8e7434cbdda425bd4f935be)](https://www.codacy.com/gh/Lakshmihulkoti/M1_Bank_Managament_app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lakshmihulkoti/M1_Bank_Managament_app&amp;utm_campaign=Badge_Grade) 
+ 
 
 Cpp check -[![cppcheck-action](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml)
        
