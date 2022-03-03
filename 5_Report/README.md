@@ -145,6 +145,14 @@ Low Level Requirements :
 ![record not found](https://user-images.githubusercontent.com/98826329/153712554-fb9d1417-9c3b-4399-b267-fa780a2c3f60.png)
 
 
+## Resources: 
+
+[Reference_1](https://www.cselectricalandelectronics.com/c-programming-projects-with-source-code-coding-projects-ideas/)
+
+[Reference_2](https://www.codewithc.com/mini-project-in-c-bank-management-system/)
+
+
+
 
 
 
