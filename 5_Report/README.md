@@ -72,7 +72,7 @@ Implementation is done using C language. And also used multifile concept.
 
 # Behavior Diagram:
 
-# High level Design
+## High level Design
 
 ## figure 1.1 Use Case Diagram
 
