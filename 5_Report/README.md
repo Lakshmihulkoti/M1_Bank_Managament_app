@@ -53,19 +53,19 @@ Bank Management system is a project and  it is an application for maintanining a
 
 # 4W's and 1'H
 
-# Who:
+## Who:
 Everyone can use the bank management system who want to have benifit of banking.
 
-# What:
+## What:
 Bank management sysem is mainly concerned to Cover the major Banking activities in sigle application.
 
-# When:
+## When:
 User can use this application by the time he decides to deposit/withdraw/view the transaction details.
 
-# Where:
+## Where:
 User can can access this application using any C compiler.
 
-# How:
+## How:
 Implementation is done using C language. And also used multifile concept.
 
 
