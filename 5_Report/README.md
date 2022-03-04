@@ -28,7 +28,7 @@ Bank Management system  :  and it is an application for maintanining a persons a
 ![swot](https://user-images.githubusercontent.com/98826329/156690385-e3811232-f5f5-4d10-8c38-4bc324824829.jpg)
 
 
-Strength : 
+## Strength : 
 * with help of customers name  and account number , User can check all the banking Activities.
 * user can perform safe transaction.
 
@@ -38,11 +38,17 @@ Strength :
 * Withdrawing Amount : This features is used to withdraw money from an account.
 * viewing tansaction details :An option for checking available balance and also helps to view the details of transaction.
 
-Weakness : If the account number is wrong No activities can be done.
+## Weakness : 
+* If the account number is wrong No activities can be done.
 
-Opportunity : user can Deposit, withdraw amount and can view details.
+## Opportunity :
+* user can Deposit, withdraw amount and can view details.
 
-Threats  : If the account number is wrong No activities can be done.
+## Threats  :
+* If the account number is wrong No activities can be done.
+
+
+
 
 
 # 4W's and 1'H
