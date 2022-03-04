@@ -30,7 +30,7 @@ Bank Management system is a project that helps the user to perform banking activ
 
 
 
-Strength :
+## Strength :
 * with help of customers name  and account number , User can check all the banking Activities.
 * User can perform safe transaction
 
@@ -40,26 +40,29 @@ Strength :
 * Withdrawing Amount : This features is used to withdraw money from an account.
 * viewing tansaction details :An option for checking available balance and also helps to view the details of transaction.
 
-Weakness : If the account number is wrong No activities can be done.
+## Weakness : 
+* If the account number is wrong No activities can be done.
 
-Opportunity : user can Deposit, withdraw amount and can view details.
+## Opportunity : 
+* user can Deposit, withdraw amount and can view details.
 
-Threats  : If the account number is wrong No activities can be done.
+## Threats  :
+* If the account number is wrong No activities can be done.
 
 # 4W's and 1'H
 
-# Who:
+## Who:
 Everyone can use the bank management system who want to have benefit of banking.
 
-# What:
+## What:
 Bank management sysem is mainly concerned to Cover the major Banking activities in single application.
 
-# When:
+## When:
 User can use this application by the time he decides to deposit/withdraw/view the transaction details.
 
-# Where:
+## Where:
 User can can access this application using any C compiler.
 
-# How:
+## How:
 Implementation is done using C language. And also used multifile concept.
 
