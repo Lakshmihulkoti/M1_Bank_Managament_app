@@ -25,6 +25,11 @@ Bank Management system is a project that helps the user to perform banking activ
 
 
 ## SWOT ANALYSIS
+
+![swot](https://user-images.githubusercontent.com/98826329/156690385-e3811232-f5f5-4d10-8c38-4bc324824829.jpg)
+
+
+
 Strength :
 * with help of customers name  and account number , User can check all the banking Activities.
 * User can perform safe transaction
