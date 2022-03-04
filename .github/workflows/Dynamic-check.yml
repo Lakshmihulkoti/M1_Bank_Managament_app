@@ -1,5 +1,4 @@
-name: Dynamiccheck
-
+name: CodeQuality Dynamic Code Analysis Valgrind
 on:
   push:
     branches: [ main ]
@@ -7,18 +6,13 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  test:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
     - name: apt install dependency
-     - name: apt install dependency
-      run: 
-         sudo apt-get -y install valgrind
-         
-    - name: Dynamic Analysis
-       run: make dynamic_analysis -c 3_Implementation
- 
-    
+      run: |
+        sudo apt-get -y install valgrind
+        sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev
