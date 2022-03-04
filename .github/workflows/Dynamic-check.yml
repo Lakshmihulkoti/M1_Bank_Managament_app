@@ -1,4 +1,4 @@
-name: CodeQuality Dynamic Code Analysis Valgrind
+name:  Dynamic Analysis 
 on:
   push:
     branches: [ main ]
@@ -16,3 +16,5 @@ jobs:
       run: |
         sudo apt-get -y install valgrind
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev
+   - name: Dynamic Analysis 
+      run: make dynamic_analysis -c 3_Implementation
