@@ -9,7 +9,7 @@
 
 |       Codiga     |          Codacy             |       Cpp check       |       Git inspector    |
 |-------------------------------|:------------------------------------------|:------------------------------------------------|:-------------------------------|
-| ![Codiga Badge](https://api.codiga.io/project/31644/score/svg)  ![codiga Badge](https://api.codiga.io/project/31644/status/svg ) |![Codacy Badge](https://app.codacy.com/project/badge/Grade/42299d7de8e7434cbdda425bd4f935be)| [![cppcheck-action](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml) | [![Contribution Check - Git Inspector](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml)
+|![codiga Badge](https://api.codiga.io/project/31675/score/svg ) ![codiga Badge](https://api.codiga.io/project/31675/status/svg) |![Codacy Badge](https://app.codacy.com/project/badge/Grade/42299d7de8e7434cbdda425bd4f935be)| [![cppcheck-action](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/windows_c-cpp.yml) | [![Contribution Check - Git Inspector](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Lakshmihulkoti/M1_Bank_Managament_app/actions/workflows/Git_Inspector.yml)
 
 
 
