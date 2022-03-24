@@ -47,7 +47,26 @@ the galvanic insulation between source and load not required.
 
 ## SWOT Analysis :
 ![swot](https://user-images.githubusercontent.com/98826329/159865473-f15a3dbc-3591-4b67-a010-a3d392188b57.jpg)
-## 
+## Strength :
+
+* The system consists of several input energy sources, integrated through a multi-input 
+power electronics converters that could accommodate a variety of input sources and it
+combine their all advantages to deliver a controlled output for diversified applications. 
+* multi-input converters will reduce the problems associated with single 
+input, converters and enhanced the interface of different renewable sources which can deliver power 
+individually and simultaneously to the load. 
+
+## WEAKNESS :
+* Large number of harmonics is produced
+* 
+
+
+## OPPORTUNITIES :
+ Isolated converters are used to isolate the low voltage DC side from high voltage side to 
+avoid shock hazard, to achieve high voltage conversion, for voltage matching and to avoid 
+large current/voltage rating semiconductor devices.
+* can be used in various battery applications
+## THREATS :
 
 ## Test Plan :
 
