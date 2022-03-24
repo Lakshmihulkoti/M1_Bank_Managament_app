@@ -7,9 +7,21 @@ Power electronics DC-DC converters are being widely used in various applications
  The system consists of several input energy sources, integrated through a multi-input 
 power electronics converters that could accommodate a variety of input sources and 
 combine their advantages to deliver a controlled output for diversified applications. 
- Due to their simple structure, minimum number of conversion stages and less devices, 
+* Due to their simple structure, minimum number of conversion stages and less devices, 
 these multiport power electronics converters have been presented for a number of 
 applications like hybrid energy systems, hybrid vehicles, satellite/aerospace applications 
 and uninterrupted power supplies.
+These are further divided into two categories. (a)isolated 
+and (b) non-isolated converters.
+* Isolated converters are used to isolate the low voltage DC side from high voltage side to 
+avoid shock hazard, to achieve high voltage conversion, for voltage matching and to avoid 
+large current/voltage rating semiconductor devices.
+* High frequency transformers are used for this purpose. But the disadvantage of this system 
+is that it needs to accommodate a transformer core which makes it bulky and in terms 
+increases the cost.
+* The non-isolated converters on the other hand are simple in structure and are used where 
+the galvanic insulation between source and load not required.
  
+## Requirements :
+## SWOT Analysis :
 
