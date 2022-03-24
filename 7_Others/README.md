@@ -23,8 +23,32 @@ increases the cost.
 the galvanic insulation between source and load not required.
  
 ## Requirements :
+
+# Requirements :
+## High level Requirements :
+
+|    ID      |              Description                  |  
+|-------------------------------|------------------------------------------|
+| HLR1 |  It shall combining the Hybrid Energy systems |  
+| HLR2 | It shall reduced the cost for integration due to their minimum components | 
+| HLR3 | It shall reduced switching losses with the use of lossless of switching circuits and has increased reliability and power security	
+
+
+## Low level Requirements:
+
+|    ID                        |              Description                  | 
+ |-------------------------------|:------------------------------------------|
+ | LLR1                          |   | 
+ |  LLR2                        |   |
+ | LLR3                          |  | 
+ | LLR4                          |  | 
+
+ 
+
 ## SWOT Analysis :
 ![swot](https://user-images.githubusercontent.com/98826329/159865473-f15a3dbc-3591-4b67-a010-a3d392188b57.jpg)
 ## 
+
+## Test Plan :
 
 
