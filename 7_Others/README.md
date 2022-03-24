@@ -24,4 +24,7 @@ the galvanic insulation between source and load not required.
  
 ## Requirements :
 ## SWOT Analysis :
+![swot](https://user-images.githubusercontent.com/98826329/159865473-f15a3dbc-3591-4b67-a010-a3d392188b57.jpg)
+## 
+
 
