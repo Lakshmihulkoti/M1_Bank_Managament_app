@@ -50,33 +50,8 @@ the galvanic insulation between source and load not required.
 ![Screenshot (174)](https://user-images.githubusercontent.com/98826329/160225518-25ac285a-08b2-452b-bab5-a50e538bbba2.png)
 
 ## SWOT Analysis :
-![swot](https://user-images.githubusercontent.com/98826329/159865473-f15a3dbc-3591-4b67-a010-a3d392188b57.jpg)
-## Strength :
+![Screenshot (179)](https://user-images.githubusercontent.com/98826329/160227038-c3924b34-9f54-477d-ab30-f10915825c04.png)
 
-
-* The system consists of several input energy sources, integrated through a multi-input 
-power electronics converters that could accommodate a variety of input sources and it
-combine their all advantages to deliver a controlled output for diversified applications. 
-* Solar and wind are easily available
-in all condition
- * low cost and easy to manufacture.
-* multi-input converters will reduce the problems associated with single 
-input, converters and enhanced the interface of different renewable sources which can deliver power 
-individually and simultaneously to the load. 
-
-## WEAKNESS :
-* Large number of harmonics is produced
-* 
-
-
-## OPPORTUNITIES :
- Isolated converters are used to isolate the low voltage DC side from high voltage side to 
-avoid shock hazard, to achieve high voltage conversion, for voltage matching and to avoid 
-large current/voltage rating semiconductor devices.
-* can be used in various battery applications
-## THREATS :
-* Solar energy has drawback that it could not produce electrical energy in rainy and cloudy season
-* Initial investment is more
 
 ## Multi poer structure for Hybrid Energy system
 ![Screenshot (170)](https://user-images.githubusercontent.com/98826329/160224713-d2380057-d05d-400c-b1fc-b474dc214fb9.png)
