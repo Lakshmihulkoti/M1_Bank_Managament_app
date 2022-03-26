@@ -46,14 +46,20 @@ the galvanic insulation between source and load not required.
  | LLR4                          |  | 
 
  
+## 5W's and 1H
+![Screenshot (174)](https://user-images.githubusercontent.com/98826329/160225518-25ac285a-08b2-452b-bab5-a50e538bbba2.png)
 
 ## SWOT Analysis :
 ![swot](https://user-images.githubusercontent.com/98826329/159865473-f15a3dbc-3591-4b67-a010-a3d392188b57.jpg)
 ## Strength :
 
+
 * The system consists of several input energy sources, integrated through a multi-input 
 power electronics converters that could accommodate a variety of input sources and it
 combine their all advantages to deliver a controlled output for diversified applications. 
+* Solar and wind are easily available
+in all condition
+ * low cost and easy to manufacture.
 * multi-input converters will reduce the problems associated with single 
 input, converters and enhanced the interface of different renewable sources which can deliver power 
 individually and simultaneously to the load. 
@@ -69,6 +75,28 @@ avoid shock hazard, to achieve high voltage conversion, for voltage matching and
 large current/voltage rating semiconductor devices.
 * can be used in various battery applications
 ## THREATS :
+* Solar energy has drawback that it could not produce electrical energy in rainy and cloudy season
+* Initial investment is more
+
+## Multi poer structure for Hybrid Energy system
+![Screenshot (170)](https://user-images.githubusercontent.com/98826329/160224713-d2380057-d05d-400c-b1fc-b474dc214fb9.png)
+
+
+
+
+For construct of the hybrid energy system we need the following part
+## Solar Power system :
+Solar energy is one of the major renewable energy source that can consist of three major block namely solar panel,
+solar photovoltaic cell, battery. The electrical energy generated using solar panel can be stored in battery or directly
+used for equipment.
+Solar panel works by allowing photons, or particles of light, to knock electron free from atoms, generating a flow of
+electricity. Solar panels actually comprises many, smaller units called photovoltaic cells. Many cells linked together
+make up a solar panel. Each photovoltaic cell is basically a sandwich made up of two slices of semi conducting
+
+## Wind power system :
+Wind energy is also one of the renewable energy source that can used for generating electrical energy with wind
+turbine coupled with generator.
+
 
 ## Test Plan :
 
