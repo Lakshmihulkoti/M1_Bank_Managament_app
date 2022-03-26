@@ -2,18 +2,13 @@
  # Abstract :
  
 Power electronics DC-DC converters are being widely used in various applications like hybrid Vehicles , aerospace, satellite applications and portable electronics. 
-The proposed multiple-input DC/DC converter is proficient for energy diversification from renewable and storage energy sources individually or simultaneously. It can be operated in buck, boost and buck-boost modes of operation with the capability of bidirectional power flow to achieve desired voltage level on either side.
-* The major advantage of system is that when solar and wind power production are used together, the power producing capacity of the system is enhanced. When there is no sun, there could be  plenty of wind and the vice-versa could also be true. Additionally, the size of battery storage can also be reduced because we get day and night production of power by relying on solar and/or wind.
-* DC-DC converters have made a successful transition from single input-single output to multi input-multi output converters. These converters are now able to interface different level and combine their advantages to feed the different level of outputs. Research is continued to bring down the cost and reduce the number of components while keeping the continuous improvement in the areas like reliability and efficiency of the overall system. The study of different multi input DC-DC converter topologies suggests that there is no single topology which can handle the entire polls of cost, reliability, flexibility, efficiency and modularity single handed. This project presents some of the recent trends in the development of multi input and multi output DC-DC converters. Methods to synthesize multi input converters, their operational principles, merits and demerits are studied. A multi input buck-buck topology is studied and simulated using MATLAB Simulink Software  
-                                   
+The proposed multiple-input DC/DC converter is proficient for energy diversification from renewable and storage energy sources individually or simultaneously. 
+* The major advantage of system is that when solar and wind power production are used together, the power producing capacity of the system is enhanced. When there is no sun, there could be  plenty of wind and the vice-versa could also be true. Additionally, the size of battery storage can also be reduced because we get day and night production of power by relying on solar and/or wind and this project is implemnted using MATLLAB simulink Software.
+
  # Introduction :
  The system consists of several input energy sources, integrated through a multi-input 
 power electronics converters that could accommodate a variety of input sources and 
 combine their advantages to deliver a controlled output for diversified applications. 
-* Due to their simple structure, minimum number of conversion stages and less devices, 
-these multiport power electronics converters have been presented for a number of 
-applications like hybrid energy systems, hybrid vehicles, satellite/aerospace applications 
-and uninterrupted power supplies.
 These are further divided into two categories. (a)isolated 
 and (b) non-isolated converters.
 * Isolated converters are used to isolate the low voltage DC side from high voltage side to 
@@ -56,10 +51,12 @@ the galvanic insulation between source and load not required.
 ## Block Daigram 
 ![Screenshot (185)](https://user-images.githubusercontent.com/98826329/160233216-810d1b31-4038-40b5-895a-ab03b0e0b616.png)
 
-## Multi poer structure for Hybrid Energy system
+## Multi port structure for Hybrid Energy system
 ![Screenshot (170)](https://user-images.githubusercontent.com/98826329/160224713-d2380057-d05d-400c-b1fc-b474dc214fb9.png)
 
 ## Flow Chart :
+![Screenshot (183)](https://user-images.githubusercontent.com/98826329/160233368-282535e5-46b6-4457-ab03-fdf35ab05fa1.png)
+
 
 
 For construct of the hybrid energy system we need the following part
