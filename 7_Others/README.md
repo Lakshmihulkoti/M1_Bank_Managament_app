@@ -48,7 +48,7 @@ the galvanic insulation between source and load not required.
 ## SWOT Analysis 
 ![Screenshot (179)](https://user-images.githubusercontent.com/98826329/160227038-c3924b34-9f54-477d-ab30-f10915825c04.png)
 
-## Block Daigram 
+## Block Daigram of the system :
 ![Screenshot (185)](https://user-images.githubusercontent.com/98826329/160233216-810d1b31-4038-40b5-895a-ab03b0e0b616.png)
 
 ## Multi port structure for Hybrid Energy system
