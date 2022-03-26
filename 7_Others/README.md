@@ -51,8 +51,9 @@ the galvanic insulation between source and load not required.
 ## Block Daigram of the system :
 ![Screenshot (185)](https://user-images.githubusercontent.com/98826329/160233216-810d1b31-4038-40b5-895a-ab03b0e0b616.png)
 
-Dual Input Buck-Buck Converter
+## Dual Input Buck-Buck Converter :
 ![Screenshot (187)](https://user-images.githubusercontent.com/98826329/160233783-c84e79dd-3ebf-49ff-9323-91e48e9a5cbb.png)
+
 
 
 ## Multi port structure for Hybrid Energy system
