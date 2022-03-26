@@ -90,5 +90,8 @@ Output :
 
 
 ## Test Plan :
-
+|Test ID | Description |  Input   |   Expected output   |   Actual output   |   Status   |
+|:-------|:------------|:-----------|:------------|:---------------|:-----------------|
+| HLR_1 | Wind Power system   |  24v   |   12v    |  ✅ |
+| HLR_1    | Solar Power system   |  12v   |    12v   | ✅      |
 
