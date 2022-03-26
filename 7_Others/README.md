@@ -22,12 +22,12 @@ the galvanic insulation between source and load not required.
  
 ## Requirements :
 
-# Requirements :
+
 ## High level Requirements :
 
 |    ID      |              Description                  |  
 |-------------------------------|------------------------------------------|
-| HLR1 |  It shall combining the Hybrid Energy systems |  
+| HLR1 |  It shall combine the Hybrid Energy systems |  
 | HLR2 | It shall reduced the cost for integration due to their minimum components | 
 | HLR3 | It shall reduced switching losses with the use of lossless of switching circuits and has increased reliability and power security	
 
@@ -36,7 +36,7 @@ the galvanic insulation between source and load not required.
 
 |    ID                        |              Description                  | 
  |-------------------------------|:------------------------------------------|
- | LLR1                          |   | 
+ | LLR1                          |  It shall combine the multiple input dc sources and collide into single output | 
  |  LLR2                        |   |
  | LLR3                          |  | 
  | LLR4                          |  | 
@@ -59,7 +59,7 @@ the galvanic insulation between source and load not required.
 
 
 
-For construct of the hybrid energy system we need the following part
+For construct of the hybrid energy system we need the following parts:
 ## Solar Power system :
 Solar energy is one of the major renewable energy source that can consist of three major block namely solar panel,
 solar photovoltaic cell, battery. The electrical energy generated using solar panel can be stored in battery or directly
@@ -72,7 +72,16 @@ make up a solar panel. Each photovoltaic cell is basically a sandwich made up of
 Wind energy is also one of the renewable energy source that can used for generating electrical energy with wind
 turbine coupled with generator.
 
-Output :
+
+# Test Plan :
+
+|Test ID | Description |  Input   |   Expected output   |   Actual output   |   Status   |
+|:-------|:------------|:-----------|:------------|:---------------|:-----------------|
+| HLR_1 | Wind Power system   |  24v   |   12v    |  12v |  ✅ |
+| HLR_1    | Solar Power system   |  12v   |    24v   | 12v    |  ✅ |
+
+# Output :
+
 ## Simulation of Subsystem :
 
 ![solar system](https://user-images.githubusercontent.com/98826329/160229723-f58c934f-90ac-40ec-85e4-4c9293c374f2.png)
@@ -88,9 +97,4 @@ Output :
 ![cmplt system](https://user-images.githubusercontent.com/98826329/160229749-b58560e5-9f97-4e73-952f-4bca8109f56c.png)
 
 
-## Test Plan :
-|Test ID | Description |  Input   |   Expected output   |   Actual output   |   Status   |
-|:-------|:------------|:-----------|:------------|:---------------|:-----------------|
-| HLR_1 | Wind Power system   |  24v   |   12v    |  12v |  ✅ |
-| HLR_1    | Solar Power system   |  12v   |    24v   | 12v    |  ✅ |
 
