@@ -1,7 +1,8 @@
 ## MULTIPLE INPUT DC-DC CONVERTER TOPOLOGY FOR HYBRID ENERGY SYSTEM 
  # Abstract :
  
-Power electronics DC-DC converters are being widely used in various applications like hybrid Vehicles , aerospace, satellite applications and portable electronics. In the recent past a lot of research and development has been carried out to enhance their liability, efficiency, modularity and cost effectiveness of these converters .The proposed multiple-input DC/DC converter is proficient for energy diversification from renewable and storage energy sources individually or simultaneously. It can be operated in buck, boost and buck-boost modes of operation with the capability of bidirectional power flow to achieve desired voltage level on either side.
+Power electronics DC-DC converters are being widely used in various applications like hybrid Vehicles , aerospace, satellite applications and portable electronics. 
+The proposed multiple-input DC/DC converter is proficient for energy diversification from renewable and storage energy sources individually or simultaneously. It can be operated in buck, boost and buck-boost modes of operation with the capability of bidirectional power flow to achieve desired voltage level on either side.
 * The major advantage of system is that when solar and wind power production are used together, the power producing capacity of the system is enhanced. When there is no sun, there could be  plenty of wind and the vice-versa could also be true. Additionally, the size of battery storage can also be reduced because we get day and night production of power by relying on solar and/or wind.
 * DC-DC converters have made a successful transition from single input-single output to multi input-multi output converters. These converters are now able to interface different level and combine their advantages to feed the different level of outputs. Research is continued to bring down the cost and reduce the number of components while keeping the continuous improvement in the areas like reliability and efficiency of the overall system. The study of different multi input DC-DC converter topologies suggests that there is no single topology which can handle the entire polls of cost, reliability, flexibility, efficiency and modularity single handed. This project presents some of the recent trends in the development of multi input and multi output DC-DC converters. Methods to synthesize multi input converters, their operational principles, merits and demerits are studied. A multi input buck-buck topology is studied and simulated using MATLAB Simulink Software  
                                    
@@ -71,6 +72,21 @@ make up a solar panel. Each photovoltaic cell is basically a sandwich made up of
 ## Wind power system :
 Wind energy is also one of the renewable energy source that can used for generating electrical energy with wind
 turbine coupled with generator.
+
+Output :
+## Simulation of Subsystem :
+
+![solar system](https://user-images.githubusercontent.com/98826329/160229723-f58c934f-90ac-40ec-85e4-4c9293c374f2.png)
+
+## Simulation using MPPT Method:
+
+![mppt](https://user-images.githubusercontent.com/98826329/160229732-c8aa9db6-4a5d-48f2-ba01-29609da16152.png)
+
+## Simulation of Multi-Input DC-DC Converter:
+![dual input](https://user-images.githubusercontent.com/98826329/160229737-44cd5b77-7dea-441d-a0b4-63d8d4c4a42f.png)
+
+## Simulation of Complete Module :
+![cmplt system](https://user-images.githubusercontent.com/98826329/160229749-b58560e5-9f97-4e73-952f-4bca8109f56c.png)
 
 
 ## Test Plan :
