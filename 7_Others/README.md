@@ -23,5 +23,9 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 ## Disadvantages :
 * Most of the farmers are illiterates so they are unable to use the modern machines.
 
+## Applications :
+* Soil Moisture detection
+* It’s used in an irrigation system when soil is dry it starts the watering system automatically.
+
 
 ![Screenshot (244)](https://user-images.githubusercontent.com/98826329/162222761-1205ed5f-abe0-4290-954e-b691259d15e1.png)
