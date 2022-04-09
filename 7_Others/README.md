@@ -10,10 +10,13 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 
 
 ## Photography of soil moisture sensor :
-![soil sensor](https://user-images.githubusercontent.com/98826329/162585549-4fc74c78-8452-4112-84cd-3b0dbc55b943.png)
+![Screenshot (254)](https://user-images.githubusercontent.com/98826329/162586682-e682e719-a48a-4945-8c3f-07839bd3bf95.png)
+  * VCC pin is used for power
+  * A0 pin is an analog output
+  * D0 pin is a digital output
+  * GND pin is a Ground
 
 
-![Screenshot (246)](https://user-images.githubusercontent.com/98826329/162223099-76e53eee-33e8-42cd-841c-8d167542ae36.png)
 
 ## Features 
 * They reduce the time.
@@ -27,3 +30,5 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 ## Applications :
 * Soil Moisture detection
 * It’s used in an irrigation system when soil is dry it starts the watering system automatically.
+* Landscape irrigation.
+* Household Gardening.
