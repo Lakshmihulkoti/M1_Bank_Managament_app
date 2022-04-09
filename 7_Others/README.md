@@ -5,7 +5,7 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 
 
 ## Introduction :       
-* Soil Moisture Sensor can also use it to measure water level by using multiple moisture sensors,and it can measure the levels of moisture in the soil so it can be extremely useful if you want to monitor the soil moisture of your plants or automate the watering procedure.
+* Soil Moisture Sensors also enable us to develop smart agricultural systems that respond to environmental conditions automatically.It can also use it to measure water level by using multiple moisture sensors,and it can measure the levels of moisture in the soil so it can be extremely useful if you want to monitor the soil moisture of your plants or automate the watering procedure.
 
 
 
@@ -28,6 +28,8 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 * Most of the farmers are illiterates so they are unable to use the modern machines.
 
 ## Applications :
+![Screenshot (259)](https://user-images.githubusercontent.com/98826329/162587093-cf349fb0-36b6-4df1-b053-25c07494fc61.png)
+
 * Soil Moisture detection
 * It’s used in an irrigation system when soil is dry it starts the watering system automatically.
 * Landscape irrigation.
