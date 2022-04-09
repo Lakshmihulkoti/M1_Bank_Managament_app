@@ -10,6 +10,7 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 
 
 ## Photography of soil moisture sensor :
+![soil sensor](https://user-images.githubusercontent.com/98826329/162585549-4fc74c78-8452-4112-84cd-3b0dbc55b943.png)
 
 
 ![Screenshot (246)](https://user-images.githubusercontent.com/98826329/162223099-76e53eee-33e8-42cd-841c-8d167542ae36.png)
@@ -26,6 +27,3 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 ## Applications :
 * Soil Moisture detection
 * It’s used in an irrigation system when soil is dry it starts the watering system automatically.
-
-
-![Screenshot (244)](https://user-images.githubusercontent.com/98826329/162222761-1205ed5f-abe0-4290-954e-b691259d15e1.png)
