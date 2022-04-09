@@ -10,7 +10,8 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 
 
 ## Photography of soil moisture sensor :
-![Screenshot (254)](https://user-images.githubusercontent.com/98826329/162586682-e682e719-a48a-4945-8c3f-07839bd3bf95.png)
+![Screenshot (260)](https://user-images.githubusercontent.com/98826329/162587527-dd2daeee-668e-4d63-a1ab-f8cac5a5bec5.png)
+
   * VCC pin is used for power
   * A0 pin is an analog output
   * D0 pin is a digital output
