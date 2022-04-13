@@ -7,6 +7,12 @@ Soil Moisture Sensor is an electronic component and it is also called hygrometer
 ## Introduction :       
 Soil Moisture Sensors also enable us to develop smart agricultural systems that respond to environmental conditions automatically.It can also use it to measure water level by using multiple moisture sensors,and it can measure the levels of moisture in the soil so it can be extremely useful if you want to monitor the soil moisture of your plants or automate the watering procedure.
 
+## Benifits :
+* They reduce the time.
+* Improve the fertility of the soil.
+* Decrease the use of water.
+* They increase the price and demand of the products.
+
 ## SWOT Analysis :
 ![Screenshot (267)](https://user-images.githubusercontent.com/98826329/163223449-2af96068-e4c5-4495-b837-5da4e3455c51.png)
 
@@ -31,12 +37,6 @@ Soil Moisture Sensors also enable us to develop smart agricultural systems that 
   * GND pin is a Ground
 
 
-
-## Features 
-* They reduce the time.
-* Improve the fertility of the soil.
-* Decrease the use of water.
-* They increase the price and demand of the products.
 
 ## Applications :
 ![Screenshot (259)](https://user-images.githubusercontent.com/98826329/162587093-cf349fb0-36b6-4df1-b053-25c07494fc61.png)
