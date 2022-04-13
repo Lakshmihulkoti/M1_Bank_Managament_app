@@ -49,6 +49,14 @@ Soil Moisture Sensors also enable us to develop smart agricultural systems that 
 ## circuit connection :
 ![IMG-20220413-WA0041](https://user-images.githubusercontent.com/98826329/163231610-55554792-876c-4299-be87-ee7682a80960.jpg)
 
+## Test Plan and Output :
+|-- ID | Description	| Exp O/P | Actual Output |Status (Implemented/Future) |
+|:---------------|:----------------------------|:------------|:-----------------|:--------------|
+| 01 |	soil with No water | RED led will Glow | RED led will Glow |  ✅  |
+| 02| Soil with suffient water | Green led will Glow| Green led will Glow |  ✅  |
+| 03| Soil with too much water | Blue led will Glow  |Blue led will Glow |  ✅  |
+
+
 
 
 ## Applications :
