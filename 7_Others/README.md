@@ -13,6 +13,7 @@ Soil Moisture Sensors also enable us to develop smart agricultural systems that 
 * Decrease the use of water.
 * They increase the price and demand of the products.
 
+
 ## SWOT Analysis :
 ![Screenshot (267)](https://user-images.githubusercontent.com/98826329/163223449-2af96068-e4c5-4495-b837-5da4e3455c51.png)
 
@@ -30,6 +31,17 @@ Soil Moisture Sensors also enable us to develop smart agricultural systems that 
 
 ## Photography of soil moisture sensor :
 ![Screenshot (260)](https://user-images.githubusercontent.com/98826329/162587527-dd2daeee-668e-4d63-a1ab-f8cac5a5bec5.png)
+
+
+  |Sl No | YL-69 | STM32 |
+|:---------------|:----------------------------|:------------|
+| 1 |	VCC |PA7|
+| 2| GND | GND |
+| 3 |	A0 |PB1 |
+| 4| Red Led |PA5 |
+| 5 | Green Led |PA3 |
+| 6| Blue Led|PA1 |
+
 
   * VCC pin is used for power
   * A0 pin is an analog output
